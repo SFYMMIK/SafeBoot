@@ -4,7 +4,7 @@
 **SafeBoot** is a security program designed to protect Linux systems from threats such as **BootKitty** and other boot-level malware by ensuring that the system's boot process remains secure. The program monitors the boot process, checks for known vulnerabilities, and attempts to mitigate potential attacks.
 
 # Before you continue:
-- this is still in **Development**
+- this is still in **Development** which means some things arent even added **yet**
 - you can but **dont have to** trust this piece of software written by me (Szymon Grajner)
 - **boot-level malwares** are really destructive and this program helps you avoid getting your files destroyed/corrupted/deleted
 - this program alone wont help you not get infected by progrms like bootkitty **if you haven't** applied secureboot or other security options in your BIOS
